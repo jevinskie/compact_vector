@@ -1,0 +1,2 @@
+add_executable(bit_vector_speed bit_vector_speed.cc)
+target_link_libraries(bit_vector_speed compact_vector)

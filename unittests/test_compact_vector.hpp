@@ -10,7 +10,7 @@
 
 #include <compact_iterator.hpp>
 #include <compact_vector.hpp>
-#include <misc.hpp>
+#include "../tests/misc.hpp"
 
 namespace test_compact_vector {
 extern std::mt19937_64 prg;
